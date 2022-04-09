@@ -27,3 +27,5 @@ Tenho 20 anos, moro no interior paulista e costumo me aventurar pelos universos 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+![Snake animation](https://github.com/LeonardoBringel/LeonardoBringel/blob/output/github-contribution-grid-snake.svg)
