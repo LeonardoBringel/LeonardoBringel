@@ -1,7 +1,5 @@
 ## Hello World! I'm Leonado Bringel
 
-Tenho 20 anos, moro no interior paulista e costumo me aventurar pelos universos da programação e Dungeons and Dragons! Estudante de Engenharia da Computação, atualmente aprendendo Flutter, movido a café e desafios! 😊
-
 <div align="center">
   <img height="180em" src="https://media.giphy.com/media/iJhEhO7IhmAjS/giphy.gif"/>
 </div>
