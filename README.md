@@ -50,7 +50,7 @@
 
 
 #
-### Github Stats
+### GitHub Stats
 
 
 <div style="display: inline_block">
