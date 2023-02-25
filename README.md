@@ -7,12 +7,12 @@
 
 
 <div align="left">
-  <h4>
+  <p>
     🤓 I'm a Computer Engineering student at UNAERP
-  </h4>
-  <h4>
+  </p>
+  <p>
     📚 Currently studying Flutter
-  </h4>
+  </p>
 </div>
 
 <br></br>
