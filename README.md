@@ -2,7 +2,7 @@
 
 
 <div align="right">
-  <img title="Hello There!", src="https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif", height=300 align="right"/>
+  <img title="Hello There!", src="https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif", height=200 align="right"/>
 </div>
 
 
