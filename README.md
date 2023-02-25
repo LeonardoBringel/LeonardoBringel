@@ -1,4 +1,4 @@
-## Hello there! I'm Leonado Spadini Bringel
+## 👋 Hello there! I'm Leonado Spadini Bringel
 
 
 <p align="center">
@@ -15,4 +15,14 @@
   <img title="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img title="Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img title="Postgresql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
+
+<br></br>
+##
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark"/>
 </div>
