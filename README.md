@@ -7,12 +7,12 @@
 
 
 <div align="left">
-  <h3>
+  <h4>
     🤓 I'm a Computer Engineering student at UNAERP
-  </h3>
-  <h3>
+  </h4>
+  <h4>
     📚 Currently studying Flutter
-  </h3>
+  </h4>
 </div>
 
 <br></br>
@@ -50,7 +50,7 @@
 
 
 #
-### GitHub Stats
+### GitHub Stats:
 
 
 <div style="display: inline_block">
