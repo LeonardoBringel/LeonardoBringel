@@ -1,12 +1,28 @@
-## 👋 Hello there! I'm Leonado Spadini Bringel
+# 👋 Hello there! I'm Leonado Spadini Bringel
 
 
-<p align="center">
-  <img title="Hello There!", src="https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif"/>
-</p>
+<div align="right">
+  <img title="Hello There!", src="https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif" align="right"/>
+</div>
 
 
-<div align="center", style="display: inline_block">
+<div align="left">
+  <h3>
+    🤓 I'm a Computer Engineering student at UNAERP
+  </h3>
+  <h3>
+    📚 Currently studying Flutter
+  </h3>
+</div>
+
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+<div style="display: inline_block">
   <img title="Flutter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img title="C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img title="C++" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -18,11 +34,10 @@
 </div>
 
 
-<br></br>
 ##
 
 
-<div align="center">
+<div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark"/>
 </div>
