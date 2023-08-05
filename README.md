@@ -57,3 +57,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark"/>
 </div>
+
+#
+### Reach Me:
+<div align="center">
+  <a href = "mailto:leo.sbringel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-bringel-33a710283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
