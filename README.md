@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello there! I'm Leonado Spadini Bringel</h1>
 
 <div class="right_side_block" align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="580px" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550px" max-width="550px" align="right">
 </div>
 
 <div class="left_side_block" align="left">
