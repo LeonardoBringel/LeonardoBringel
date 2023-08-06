@@ -1,66 +1,41 @@
-# 👋 Hello there! I'm Leonado Spadini Bringel
+<h1 align="center">👋 Hello there! I'm Leonado Spadini Bringel</h1>
 
-
-<div align="right">
-  <img title="Hello There!", src="https://media.giphy.com/media/e6tWc6BpjyluE/giphy.gif" max-width="500px" width="400px" align="right"/>
+<div class="right_side_block" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px" align="right">
 </div>
 
-
-<div align="left">
-  <h3>
+<div class="left_side_block" align="left">
+  <p style="font-size: 18px">
     🤓 I'm a Computer Engineering student at UNAERP
-  </h3>
-  <h3>
+    </br></br>
     📚 Currently studying Flutter
-  </h3>
+  </p>
+
+  <h2 align="center">Proficiencies 🚀</h2>
+  <div class="proficiencies_block_1" align="center">
+    <img title="Flutter" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+    <img title="C" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img title="C++" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img title="Java" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  </div>
+  <div class="proficiencies_block_2" align="center">
+    <img title="Python" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img title="Figma" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img title="Arduino" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <img title="Postgresql" height="40px" style="padding:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  </div>
 </div>
 
-<br></br>
-
-<table>
-  <tr>
-      <td align="center">
-        <img title="Flutter" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-      </td>
-      <td align="center">
-        <img title="C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-      </td>
-      <td align="center">
-        <img title="C++" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-      </td>
-      <td align="center">
-        <img title="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-      </td>
-  </tr>
-  <tr>
-      <td align="center">
-        <img title="Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      </td>
-      <td align="center">
-        <img title="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-      </td>
-      <td align="center">
-        <img title="Arduino" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-      </td>
-      <td align="center">
-        <img title="Postgresql" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      </td>
-  </tr>
-</table>
-
-
-#
-### GitHub Stats:
-
-
-<div style="display: inline_block">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark"/>
+<div style="display: inline_block" align="center">
+  <img height="150px" style="padding-top:15px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
+  <img height="150px" style="padding-top:15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark"/>
 </div>
 
-#
-### Reach Me:
-<div align="center">
-  <a href = "mailto:leo.sbringel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-bringel-33a710283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div class="reach_me_block" style="padding-top:15px" align="center">
+  <a href="mailto:leo.sbringel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35px">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-bringel-33a710283/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35px">
+  </a>
 </div>
