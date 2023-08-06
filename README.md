@@ -7,9 +7,11 @@
 <div class="left_side_block" align="left">
   <p style="font-size: 18px">🤓 I'm a Computer Engineering student at UNAERP</p>
 
-  <img width="300px" max-width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark"/>
-  <img width="300px" max-width="300px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
+  <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
+  <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark&hide_title=true"/>
 </div>
+
+</br>
 
 <h2 align="center">Proficiencies 🚀</h2>
 <div class="proficiencies_block" align="center">
