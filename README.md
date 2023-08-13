@@ -5,14 +5,14 @@
 </div>
 
 <div class="left_side_block" align="left">
-  <p style="font-size: 18px">🤓 I'm a Computer Engineering student at UNAERP</p>
+  <p>🤓 I'm a Computer Engineering student at UNAERP</p>
 
   <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
   <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark&hide_title=true"/>
 </div>
 
-<h3 align="center" style="font-size:32px; padding-top:20px">Proficiences 🚀</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%", height=15px>
+</br>
+<h2 align="center">Proficiences 🚀</h2>
 
 <div class="proficiencies_block" align="center">
   <img title="Flutter" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
@@ -25,9 +25,10 @@
   <img title="Postgresql" height="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
-<h3 align="center" style="font-size:32px; padding-top:20px">Reach Me ☎️</h3>
+</br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%", height=15px>
 
+<h2 align="center">Reach Me ☎️</h2>
 <div class="reach_me_block" align="center">
   <a href="mailto:leo.sbringel@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35px">
