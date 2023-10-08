@@ -7,8 +7,10 @@
 <div class="left_side_block" align="left">
   <p>🤓 I'm a Computer Engineering student at UNAERP</p>
 
-  <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
-  <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark&hide_title=true"/>
+  <a href="#">
+    <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api?username=LeonardoBringel&hide_rank=true&hide=issues,contribs&count_private=true&show_icons=true&theme=dark&hide_title=true"/>
+    <img width="305px" max-width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBringel&langs_count=4&layout=compact&theme=dark&hide_title=true"/>
+  </a>
 </div>
 
 </br>
@@ -27,7 +29,9 @@
 </div>
 
 </br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%", height=15px>
+<a href="#">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%", height=15px>
+</a>
 
 <h2 align="center">Reach Me ☎️</h2>
 <div class="reach_me_block" align="center">
